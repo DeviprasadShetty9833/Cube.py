@@ -3,7 +3,7 @@
 <br> Author - Deviprasad Shetty 
 <br> 
 
-# My Intro
+# My Intro:
 <br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning and exploring new fields in Computer Science domain. 
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
@@ -13,14 +13,14 @@
 <br> ⊡⁠ [Portfolio](https://github.com/DeviprasadShetty9833/My_Portfolio)
 <br> 
 
-# Overview
+# Overview:
 
 <br> This is a simple and creative Python program that visually prints a 3D cube-like pattern in the console based on the number of sides (edge length) entered by the user.
 <br> The program dynamically adjusts the square’s size and intelligently carves diagonal layers from both corners to simulate a 3D optical illusion using only text characters (* and spaces). 
 <br> It’s great for improving logical thinking and mastering pattern-based programming.
 <br> 
 
-# Key Features
+# Key Features:
 
 <br> 1. Dynamic Cube Size
 <br> The user provides a number (between 2 and 15), and the program auto-adjusts the grid size and diagonal depth accordingly.
@@ -38,7 +38,7 @@
 <br> Clearly commented and simple logic—perfect for beginners learning ASCII art or logic-based printing.
 <br> 
 
-# Concepts Used
+# Concepts Used:
 
 <br> Programming Language: Python 3
 
@@ -50,11 +50,11 @@
 <br> Command-line interaction for input
 <br> 
 
-# Focus Areas
+# Focus Areas:
 
 <br> Logical Thinking
 <br> Pattern Programming
 <br> Dynamic Output based on user input
 <br> Visual Design using basic console characters
 
-
+# Output:
