@@ -41,10 +41,9 @@
 
 # Concepts Used:
 
-<br> Programming Language: Python 3
+<br> Programming Language: Python 
 
 <br> Core Concepts:
-
 <br> Loops (for) for iterating through rows and columns
 <br> Conditional logic to carve patterns dynamically
 <br> ASCII art fundamentals using only * and spaces
