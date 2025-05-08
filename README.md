@@ -44,18 +44,18 @@
 <br> Programming Language: Python 
 
 <br> Core Concepts:
-<br> Loops (for) for iterating through rows and columns
-<br> Conditional logic to carve patterns dynamically
-<br> ASCII art fundamentals using only * and spaces
-<br> Command-line interaction for input
+<br> ⊡⁠ Loops (for) for iterating through rows and columns
+<br> ⊡⁠ Conditional logic to carve patterns dynamically
+<br> ⊡⁠ ASCII art fundamentals using only * and spaces
+<br> ⊡⁠ Command-line interaction for input
 <br> 
 
 # Focus Areas:
 
-<br> Logical Thinking
-<br> Pattern Programming
-<br> Dynamic Output based on user input
-<br> Visual Design using basic console characters
+<br> ⊡⁠ Logical Thinking
+<br> ⊡⁠ Pattern Programming
+<br> ⊡⁠ Dynamic Output based on user input
+<br> ⊡⁠ Visual Design using basic console characters
 
 # Output:
 
