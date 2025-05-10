@@ -37,11 +37,11 @@
 
 ⊡⁠ If the user inputs a size n < 5, then the pattern follows this transformation:
 
-1] Initial Shape:
-A solid (n + 1) × (n + 1) square of * characters.
+  1] Initial Shape:
+  A solid (n + 1) × (n + 1) square of * characters.
 
-2] Diagonal Layer Transformation:
-The 1st diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
+  2] Diagonal Layer Transformation:
+  The 1st diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
 
 ⊡⁠ If the user inputs a size n < 10, then the pattern follows this transformation:
