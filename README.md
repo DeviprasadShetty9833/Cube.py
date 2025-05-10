@@ -86,9 +86,9 @@ The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partiall
 
 # Output:
 
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/DeviprasadShetty9833/Cube.py/blob/ca05106dec46da7253039ce93ea2bbc4bdf82db0/assets/Output1.png)
+![image alt](https://github.com/DeviprasadShetty9833/Cube.py/blob/ca05106dec46da7253039ce93ea2bbc4bdf82db0/assets/Output2.png)
+![image alt](https://github.com/DeviprasadShetty9833/Cube.py/blob/ca05106dec46da7253039ce93ea2bbc4bdf82db0/assets/Output3.png)
 
 # Feedback:
 <br> I’d love to hear from you!
