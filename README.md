@@ -59,4 +59,8 @@
 
 # Output:
 
+# Feedback:
+<br> I’d love to hear from you!
+<br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Cube.py/tree/main/Issue_Template), Issues, or have [Suggestions](https://github.com/DeviprasadShetty9833/Cube.py/blob/main/Issue_Template/Features_report.md) for improvements.
+
 
