@@ -1,4 +1,5 @@
-n = int(input("Enter a number (n < 15): "))
+n = int(input("\n Enter a number ( 1 < n < 15 ): "))
+print("\n")
 
 # Determine square size and number of layers based on input
 if n < 5:
@@ -11,7 +12,7 @@ elif n < 15:
     size = n + 3
     layers = 3
 else:
-    print("Input out of allowed range (< 15)")
+    print("\n Input out of allowed range (1 < n < 15)")
     exit()
 
 for i in range(size):
@@ -33,3 +34,4 @@ for i in range(size):
 
         row += "  " if carve else "* "
     print(row)
+print("\n")
