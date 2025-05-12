@@ -38,7 +38,7 @@
 >  ⊡⁠ Logic 
 > - If the user inputs a size n < 5, then the pattern follows this transformation:
 
-> - - &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
+> &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
   A solid (n + 1) × (n + 1) square of * characters.
 
 &nbsp;&nbsp;&nbsp;&nbsp;  2] Diagonal Layer Transformation:
