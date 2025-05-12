@@ -35,6 +35,7 @@
 <br> The program removes stars diagonally from both the bottom-left and top-right corners, depending on the input size.
 <br> 
 
+> - ⊡⁠ Logic 
 ⊡⁠ If the user inputs a size n < 5, then the pattern follows this transformation:
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
