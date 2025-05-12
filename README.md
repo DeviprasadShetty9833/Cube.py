@@ -34,32 +34,31 @@
 <br> 3. Layered Carving Logic
 <br> The program removes stars diagonally from both the bottom-left and top-right corners, depending on the input size.
 <br> 
+ 
+> ⊡⁠ If the user inputs a size n < 5, then the pattern follows this transformation:
 
->  ⊡⁠ Logic 
-> - If the user inputs a size n < 5, then the pattern follows this transformation:
-
-> &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
+> - &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
   A solid (n + 1) × (n + 1) square of * characters.
 
-&nbsp;&nbsp;&nbsp;&nbsp;  2] Diagonal Layer Transformation:
+> - &nbsp;&nbsp;&nbsp;&nbsp;  2] Diagonal Layer Transformation:
   The 1st diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
 
-> -⁠ If the user inputs a size n < 10, then the pattern follows this transformation:
+> ⊡⁠⁠ If the user inputs a size n < 10, then the pattern follows this transformation:
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
+> - &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
 A solid (n + 2) × (n + 2) square of * characters.
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2] Diagonal Layer Transformation:
+> - &nbsp;&nbsp;&nbsp;&nbsp; 2] Diagonal Layer Transformation:
 The 1st & 2nd diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
 
-> -⁠ If the user inputs a size n < 15, then the pattern follows this transformation:
+> ⊡⁠⁠ If the user inputs a size n < 15, then the pattern follows this transformation:
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
+> - &nbsp;&nbsp;&nbsp;&nbsp; 1] Initial Shape:
 A solid (n + 3) × (n + 3) square of * characters.
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2] Diagonal Layer Transformation:
+> - &nbsp;&nbsp;&nbsp;&nbsp; 2] Diagonal Layer Transformation:
 The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
 
