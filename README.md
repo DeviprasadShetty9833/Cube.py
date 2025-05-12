@@ -39,7 +39,6 @@
 
 > - &nbsp; Initial Shape:
   A solid (n + 1) × (n + 1) square of * characters.
-
 > - &nbsp; Diagonal Layer Transformation:
   The 1st diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
@@ -48,7 +47,6 @@
 
 > - &nbsp; Initial Shape:
 A solid (n + 2) × (n + 2) square of * characters.
-
 > - &nbsp; Diagonal Layer Transformation:
 The 1st & 2nd diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
@@ -57,7 +55,6 @@ The 1st & 2nd diagonal layer from bottom-left to top-right will be partially car
 
 > - &nbsp; Initial Shape:
 A solid (n + 3) × (n + 3) square of * characters.
-
 > - &nbsp; Diagonal Layer Transformation:
 The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
