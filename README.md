@@ -26,12 +26,11 @@
 <br> The user provides a number (between 2 and 15), and the program auto-adjusts the grid size and diagonal depth accordingly.
 <br> 
 
-<br> 2. 3D Visual Effect
-![2.](https://img.shields.io/badge/2.-3D%20Visual%20Effect-blue?style=for-the-badge&labelColor=white)
+<br> ![2.](https://img.shields.io/badge/2.-3D%20Visual%20Effect-blue?style=for-the-badge&labelColor=white)
 <br> Smart use of asterisks and spaces creates an illusion of depth—mimicking a cube’s perspective.
 <br> 
 
-<br> 3. Layered Carving Logic
+<br> ![1.](https://img.shields.io/badge/3.-Layered%20Carving%20Logic-blue?style=for-the-badge&labelColor=white)
 <br> The program removes stars diagonally from both the bottom-left and top-right corners, depending on the input size.
 <br> 
  
@@ -57,6 +56,7 @@ The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partiall
 
 
 <br> 4. Clean & Readable Structure
+![4.](https://img.shields.io/badge/4.-Clean%20&%20Readable%20Structure-blue?style=for-the-badge&labelColor=white)
 <br> Clearly commented and simple logic—perfect for beginners learning ASCII art or logic-based printing.
 <br> 
 
