@@ -55,8 +55,7 @@ A solid *(n + 3) × (n + 3)* square of * characters.
 The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
 
 
-<br> 4. Clean & Readable Structure
-![4.](https://img.shields.io/badge/4.-Clean%20&%20Readable%20Structure-blue?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Clean%20&%20Readable%20Structure-blue?style=for-the-badge&labelColor=white)
 <br> Clearly commented and simple logic—perfect for beginners learning ASCII art or logic-based printing.
 <br> 
 
