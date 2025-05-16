@@ -22,11 +22,12 @@
 
 # Key Features:
 
-<br> 1. Dynamic Cube Size
+<br> ![1.](https://img.shields.io/badge/1.-Dynamic%20Cube%20Size-blue?style=for-the-badge&labelColor=white)
 <br> The user provides a number (between 2 and 15), and the program auto-adjusts the grid size and diagonal depth accordingly.
 <br> 
 
 <br> 2. 3D Visual Effect
+![2.](https://img.shields.io/badge/2.-3D%20Visual%20Effect-blue?style=for-the-badge&labelColor=white)
 <br> Smart use of asterisks and spaces creates an illusion of depth—mimicking a cube’s perspective.
 <br> 
 
