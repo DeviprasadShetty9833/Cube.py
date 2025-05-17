@@ -79,7 +79,7 @@ The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partiall
 
 # How to Use:
 
-<br> 1. Copy the source code from the file : ![Cube.py]() 
+<br> 1. Copy the source code from the file : ![src.py](https://github.com/DeviprasadShetty9833/Cube.py/blob/10ccf1769b425a2e9140c1b1fb4aa42d7f67789e/src.py) 
 <br> 2. Open any of the recommended online C compilers : (e.g., ![OnlineGDB](), ![Programiz](), ![Replit](), etc.)
 <br> 3. Paste the copied code into the editor.
 <br> 4. Click the **RUN** button to execute the program.
