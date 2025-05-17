@@ -79,8 +79,8 @@ The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partiall
 
 # How to Use:
 
-<br> 1. Copy the source code from the file:![Cube.c]() 
-<br> 2. Open any of the recommended online C compilers: (e.g., OnlineGDB, Programiz, Replit, etc.)
+<br> 1. Copy the source code from the file : ![Cube.py]() 
+<br> 2. Open any of the recommended online C compilers : (e.g., ![OnlineGDB](), ![Programiz](), ![Replit](), etc.)
 <br> 3. Paste the copied code into the editor.
 <br> 4. Click the **RUN** button to execute the program.
 <br> 5. View the output — a visually structured cube pattern is displayed in the console output panel, as shown below 👇 in the examples of Output.
