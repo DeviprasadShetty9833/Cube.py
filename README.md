@@ -77,6 +77,8 @@ The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partiall
 <br> ⊡⁠ Dynamic Output based on user input
 <br> ⊡⁠ Visual Design using basic console characters
 
+# How to use:
+
 # Output:
 
 ![image alt](https://github.com/DeviprasadShetty9833/Cube.py/blob/ca05106dec46da7253039ce93ea2bbc4bdf82db0/assets/Output1.png)
