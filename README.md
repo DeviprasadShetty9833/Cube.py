@@ -1,4 +1,5 @@
 # Cube.py
+#![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
 
