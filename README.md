@@ -98,3 +98,5 @@ The 1st, 2nd & 3rd diagonal layer from bottom-left to top-right will be partiall
 <br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Cube.py/blob/main/Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/Cube.py/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/Cube.py/blob/main/Issue_Template/Features_report.md) for improvements.
 
 
+# Support:
+If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
